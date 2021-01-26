@@ -8,8 +8,10 @@
 \[J1\] _Mengxue Hou_, Sungjin Cho, Haomin Zhou, Catherine R. Edwards and Fumin Zhang, “Bounded cost path planning for underwater vehicles assisted by a partitioned flow field model,” /Frontiers in Robotics and AI/, under review.
 ~~~
 
+== Preprints
+
 ~~~
-\[J2\] Haoyan Zhai, _Mengxue Hou_, Fumin Zhang, and Haomin Zhou, “Method of evolving junction on optimal path planning in flow fields,” /IEEE Transactions on Robotics/, under review.
+\[J2\] Haoyan Zhai, _Mengxue Hou_, Fumin Zhang, and Haomin Zhou, “Method of evolving junction on optimal path planning in flow fields,”, under review.
 
 [https://arxiv.org/abs/1904.11554 Preprint]
 ~~~
@@ -17,51 +19,58 @@
 
 == Conference Proceedings
 
+
 ~~~
-\[C1\] Ziqiao Zhang, _Mengxue Hou_, Fumin Zhang, and Catherine R. Edwards, “An LSTM based Kalman Filter for Spatio-temporal Ocean Currents Assimilation,” in /Proc. of ACM International Conference on Underwater Networks and Systems/, Atlanta, US, 2019. DOI: 10.1145/3366486.3366522
+\[C9\] Qiuyang Tao, _Mengxue Hou_, Fumin Zhang, “Modeling and Identification of Coupled Translational and Rotational Motion of Underactuated Indoor Miniature Autonomous Blimps,” in /16th International Conference on Control, Automation, Robotics and Vision (ICARCV)/, 2020. DOI: 10.1109/ICARCV50220.2020.9305371
+
+[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9305371&tag=1 Link]
+~~~
+
+~~~
+\[C8\] Ziqiao Zhang, _Mengxue Hou_, Fumin Zhang, and Catherine R. Edwards, “An LSTM based Kalman Filter for Spatio-temporal Ocean Currents Assimilation,” in /Proc. of ACM International Conference on Underwater Networks and Systems/, Atlanta, US, 2019. DOI: 10.1145/3366486.3366522
 
 [https://dl.acm.org/doi/abs/10.1145/3366486.3366522 Link]
 ~~~
 
 ~~~
-\[C2\] _Mengxue Hou_, Haoyan Zhai, Haomin Zhou, and Fumin Zhang, “Partitioning Ocean Flow Field for Underwater Vehicle Path Planning,” in /Proc. of MTS/IEEE OCEANS’ 19/, Marseille, France, 2019. DOI: 10.1109/OCEANSE.2019.8867327
+\[C7\] _Mengxue Hou_, Haoyan Zhai, Haomin Zhou, and Fumin Zhang, “Partitioning Ocean Flow Field for Underwater Vehicle Path Planning,” in /Proc. of MTS/IEEE OCEANS’ 19/, Marseille, France, 2019. DOI: 10.1109/OCEANSE.2019.8867327
 
 [https://ieeexplore.ieee.org/document/8867327/ Link] | [https://github.gatech.edu/mhou30/mengxue.github.io/blob/master/Poster_A0_portrait.pdf Poster]
 ~~~
 
 ~~~
-\[C3\] _Mengxue Hou_, Qiuyang Tao, Paul Varnell, and Fumin Zhang, “Modeling Pointing Tasks in Human-Blimp Interactions,” in /Proc. of the 3rd IEEE Conference on Control Technology and Applications (CCTA)/, Hong Kong, China, 2019. DOI: 10.1109/CCTA.2019.8920528
+\[C6\] _Mengxue Hou_, Qiuyang Tao, Paul Varnell, and Fumin Zhang, “Modeling Pointing Tasks in Human-Blimp Interactions,” in /Proc. of the 3rd IEEE Conference on Control Technology and Applications (CCTA)/, Hong Kong, China, 2019. DOI: 10.1109/CCTA.2019.8920528
 
 [https://ieeexplore.ieee.org/document/8920528 Link]
 ~~~
 
 ~~~
-\[C4\] _Mengxue Hou_, Shijie Liu, Fumin Zhang, and Catherine R. Edwards, “Path Tracking Error Analysis for Underwater Glider Navigation in a Spatially and Temporally Varying Flow Field”, in /Proc. of MTS/IEEE OCEANS’ 18/, Charleston, US, 2018. DOI: 10.1109/OCEANS.2018.8604585
+\[C5\] _Mengxue Hou_, Shijie Liu, Fumin Zhang, and Catherine R. Edwards, “Path Tracking Error Analysis for Underwater Glider Navigation in a Spatially and Temporally Varying Flow Field”, in /Proc. of MTS/IEEE OCEANS’ 18/, Charleston, US, 2018. DOI: 10.1109/OCEANS.2018.8604585
 
 [https://ieeexplore.ieee.org/document/8604585 Link]
 ~~~
 
 
 ~~~
-\[C5\] _Mengxue Hou_, Shijie Liu, Fumin Zhang, and Catherine R. Edwards, “A Combined Path Planning and Path Following Method for Underwater Glider Navigation in a Strong, Dynamic Flow Field”, in /Proc. of MTS/IEEE OCEANS’ 18/, Kobe, Japan, 2018. DOI: 10.1109/OCEANSKOBE.2018.8559348
+\[C4\] _Mengxue Hou_, Shijie Liu, Fumin Zhang, and Catherine R. Edwards, “A Combined Path Planning and Path Following Method for Underwater Glider Navigation in a Strong, Dynamic Flow Field”, in /Proc. of MTS/IEEE OCEANS’ 18/, Kobe, Japan, 2018. DOI: 10.1109/OCEANSKOBE.2018.8559348
 
 [https://ieeexplore.ieee.org/document/8559348 Link]
 ~~~
 
 ~~~
-\[C6\] Qiuyang Tao, Jaeseok Cha, _Mengxue Hou_, and Fumin Zhang, “Parameter Identification of Blimp Dynamics through Swinging Motion”, in /Proc. of International Conference on Control, Automation, Robotics and Vision/, Singapore, 2018. DOI: 10.1109/ICARCV.2018.8581376
+\[C3\] Qiuyang Tao, Jaeseok Cha, _Mengxue Hou_, and Fumin Zhang, “Parameter Identification of Blimp Dynamics through Swinging Motion”, in /Proc. of International Conference on Control, Automation, Robotics and Vision/, Singapore, 2018. DOI: 10.1109/ICARCV.2018.8581376
 
 [https://ieeexplore.ieee.org/document/8581376 Link]
 ~~~
 
 ~~~
-\[C7\] _Mengxue Hou_ and Shangtai Jin, “Simulation Comparison among Three Data-Driven Control Methods for the Planar Manipulator”, in /Proc. of 10th Asian Control Conference (ASCC)/, Sabah, Malaysia, 2015. DOI: 10.1109/ASCC.2015.7244440
+\[C2\] _Mengxue Hou_ and Shangtai Jin, “Simulation Comparison among Three Data-Driven Control Methods for the Planar Manipulator”, in /Proc. of 10th Asian Control Conference (ASCC)/, Sabah, Malaysia, 2015. DOI: 10.1109/ASCC.2015.7244440
 
 [https://ieeexplore.ieee.org/document/7244440 Link]
 ~~~
 
 ~~~
-\[C8\] Shangtai Jin and _Mengxue Hou_, “An Improved Full-Form-Dynamic-Linearization based MFAC for a Class of Nonlinear Systems”, in /Proc. of 34th Chinese Control Conference(CCC)/, Hangzhou, China, 2015. DOI: 10.1109/ChiCC.2015.7260108
+\[C1\] Shangtai Jin and _Mengxue Hou_, “An Improved Full-Form-Dynamic-Linearization based MFAC for a Class of Nonlinear Systems”, in /Proc. of 34th Chinese Control Conference(CCC)/, Hangzhou, China, 2015. DOI: 10.1109/ChiCC.2015.7260108
 
 [https://ieeexplore.ieee.org/document/7260108 Link]
 ~~~

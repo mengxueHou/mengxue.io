@@ -5,7 +5,7 @@
 {}{img_left}{mengxue.jpg}{}{164}{254}{}
 ~~~
 
-I am a PhD student in Electrical and Computer Engineering, Georgia Institute of Technology. I am advised by Dr. [fumin.ece.gatech.edu Fumin Zhang]. My research interests include path planning of underwater vehicle, filtering, and machine learning algorithms. 
+I am a PhD candidate in Electrical and Computer Engineering, Georgia Institute of Technology. I am advised by Dr. [fumin.ece.gatech.edu Fumin Zhang]. My research interests include path planning of underwater vehicle, filtering, and machine learning algorithms. 
 
 Before joining Georgia Tech, I received B.S. in Electrical Engineering from Shanghai Jiao Tong University, Shanghai, China in 2016. 
 
@@ -18,8 +18,8 @@ email: mhou30@gatech.edu
 - B.S. in Electrical Engineering from Shanghai Jiao Tong University, Shanghai, China, 2016
 
 == Research Interests
-- Path planning of underwater vehicles
-- Filtering
+- Dynamical system
+- Stochastic optimal control
 - Machine learning algorithms
 
 == Awards
@@ -27,7 +27,7 @@ email: mhou30@gatech.edu
 - Student travel award to the 3rd IEEE Conference on Control Technology and Applications, IEEE Control Systems Society, 2019.
 
 - Second place in Best Student Poster Competition, MTS/IEEE OCEANS’ 19 Conference, Marseille, France, 2019. 
-Title: Partitioning Ocean Flow Field for Underwater Vehicle Path Planning
+[http://www.oceansstudentpostercompetition.org/examples.cfm Title: Partitioning Ocean Flow Field for Underwater Vehicle Path Planning]
 
 - Chiang Chen Overseas Graduate Fellowship from Chiang Chen Industrial Charity Foundation, 2015. (10 awardees in mainland China each year, $50,000 for the first year of graduate study)
 
@@ -38,6 +38,6 @@ Title: The Spreading Prediction of Ebola Virus Disease and Optimal Delivery Syst
 
 - Volunteer of the 14th International Conference on Underwater Networks & systems (WUWNet 2019).
 
-- Reviewer for IEEE Transactions on Automatic Control, IEEE Journal of Oceanic Engineering, Autonomous Robots.
+- Reviewer for IEEE Transactions on Automatic Control, IEEE Journal of Oceanic Engineering, Autonomous Robots, IEEE Robotics and Automation Letters.
 
 - Reviewer for ICRA, OCEANS, WUWNet, CCTA       
