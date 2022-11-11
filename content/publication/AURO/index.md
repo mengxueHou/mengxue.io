@@ -1,5 +1,5 @@
 ---
-title: "Human Pointing Motion during Interaction with an Autonomous Blimp"
+title: "Method of evolving junction on optimal path planning in flows fields"
 authors:
 - Haoyan Zhai
 - admin
