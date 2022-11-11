@@ -17,7 +17,7 @@ organizations:
     url: https://engineering.purdue.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotic autonomy, mobile sensor networks, and human robot interaction.
+bio: My research interests include robotic autonomy, mobile sensor networks, and human robot interaction. I aim to devise practical, computationally-efficient, and provably-correct algorithms that prepare robotic systems to be cognizant, taskable, and adaptive, and can collaborate with human operators to co-exist in a complex, ever-changing and unknown environment.
 
 # Interests to show in About widget
 interests:
