@@ -25,7 +25,7 @@ publishDate: '2020-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Global Oceans 2020: Singapore – U.S. Gulf Coast*
+publication: In *Global Oceans 2020: Singapore U.S. Gulf Coast*
 publication_short: In *OCEANS*
 
 abstract: Due to complex oceanic environments, underwater gliders typically must satisfy a variety of environmental conditions in order to complete high level objectives. Underwater navigation, for example, requires that a glider must periodically surface and re-localize in order to ensure adequate progress is being made. Such conditions may be directly encoded in Hierarchical Task Network (HTN) planners to ensure that glider actions are valid over the execution of a plan. However, HTN planners may not be able to find good solutions when actions have uncertain costs, such as when a glider is disturbed by a flow field. We propose a bounded cost HTN planner that leverages a modified potential search method in order to find good navigation plans that satisfy user-defined constraints. Simulation results are presented to validate the approach.
