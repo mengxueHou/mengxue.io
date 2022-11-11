@@ -12,11 +12,11 @@ authors:
 
   # Author notes (optional)
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2019-07-01T00:00:00Z'
+doi: '10.1145/3366486.3366522'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2019-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
