@@ -34,9 +34,9 @@ item:
   - certificate_url: http://www.ccicf.org.hk/en/scholarships/fellowship_b_04/
     date_end: ''
     date_start: '2015-01-01'
-    description: Chiang Chen overseas graduate fellowship 
+    description: One of ten awardees in China
     organization: Chiang Chen Industrial Charity Foundation, Hong Kong, China
-    organization_url: 
+    organization_url: http://www.ccicf.org.hk/en/scholarships/fellowship_b_04/
     title: Chiang Chen overseas graduate fellowship
     url: ' '
 
