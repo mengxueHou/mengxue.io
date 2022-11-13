@@ -28,25 +28,17 @@ item:
     date_start: '2019-06-19'
     description: ''
     organization: ''
-    organization_url: https://www.coursera.org
+    organization_url: ' '
     title: MTS/IEEE OCEANS’ 19, Marseille, France, June. 2019 (flagship conference in ocean engineering).
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: http://www.ccicf.org.hk/en/scholarships/fellowship_b_04/
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    date_start: '2015-01-01'
+    description: Chiang Chen overseas graduate fellowship 
+    organization: Chiang Chen Industrial Charity Foundation, Hong Kong, China
+    organization_url: 
+    title: Chiang Chen overseas graduate fellowship
+    url: ' '
 
 design:
   columns: '2'
