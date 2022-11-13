@@ -26,15 +26,15 @@ item:
   - certificate_url: https://www.ece.gatech.edu/news/623280/hou-selected-mtsieee-oceans-best-poster-award}{Best student paper/poster award
     date_end: ''
     date_start: '2019-06-19'
-    description: MTS/IEEE OCEANS’ 19, Marseille, France, June. 2019 (flagship conference in ocean engineering)
-    organization: ''
+    description: MTS/IEEE OCEANS’ 19, Marseille, France (flagship conference in ocean engineering)
+    organization: MTS/IEEE OCEANS Conference
     organization_url: ' '
     title: Best Student Paper/Poster Award, MTS/IEEE OCEANS’ 19
     url: ''
   - certificate_url: http://www.ccicf.org.hk/en/scholarships/fellowship_b_04/
     date_end: ''
     date_start: '2015-01-01'
-    description: One of ten awardees in China
+    description: ' '
     organization: Chiang Chen Industrial Charity Foundation, Hong Kong, China
     organization_url: http://www.ccicf.org.hk/en/scholarships/fellowship_b_04/
     title: Chiang Chen Overseas Graduate Fellowship
