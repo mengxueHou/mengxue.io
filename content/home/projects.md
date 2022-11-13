@@ -27,10 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Robotic Planning
+      tag: Robotic planning
+    - name: Environmental Estimation
+      tag: estimation
+    - name: Human Robot Interaction
+      tag: human robot interaction
+    - name: Marine Robotics
+      tag: marine robotics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
