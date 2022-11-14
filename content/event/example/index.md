@@ -4,7 +4,7 @@ title: Mori-Zwanzig formalism based belief abstraction for uncertainty-aware dec
 event: ICON Postdoc Seminar in Optimization
 event_url: https://engineering.purdue.edu/ICON/Seminars/icon-postdoc-seminar-mengxue-hou-georgia-tech
 
-location: https://youtu.be/-lc_78xo6_8
+location: ''
 address:
   street: Purdue University
   city: West Lafayette
@@ -25,7 +25,7 @@ all_day: false
 publishDate: '2017-01-01T00:00:00Z'
 
 authors: admin
-tags: Robotic planning
+tags: [planning]
 
 # Is this a featured talk? (true/false)
 featured: false
