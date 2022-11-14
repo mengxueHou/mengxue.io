@@ -12,7 +12,7 @@ address:
   postcode: '47907'
   country: United States
 
-summary: 
+summary: Mori-Zwanzig formalism based belief abstraction for uncertainty-aware decision-making
 abstract: 'Decision-making in partially observable environments is one of the key challenges in robotic autonomy. In this talk, I will address the continuous-state POMDP (Partially Observable Markov Decision Process) problem using a reduced-order approximation method. We develop a belief abstraction algorithm that allocates a fixed number of symbols representing the belief state, and ensures the parameterization of the belief dynamics does not grow exponentially as the system dimension increases. Based on the Mori-Zwanzig formalism, a novel learning algorithm is developed to improve accuracy of the reduced-order belief dynamics. We prove that incorporating the learning algorithm leads to a time-uniform model reduction error bound. We consider marine autonomy as an example of POMDP, and use numerical simulations to show that the proposed algorithm supports real-time decision-making of underwater vehicles in unknown environment, with lower model reduction error.'
 
 # Talk start and end times.
@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors:
+authors: []
 tags: [planning]
 
 # Is this a featured talk? (true/false)
@@ -45,7 +45,7 @@ url_video: 'https://youtu.be/-lc_78xo6_8'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
