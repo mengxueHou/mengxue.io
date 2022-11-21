@@ -33,14 +33,13 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://www.nature.com/articles/s41598-022-15016-w"
-url_code: ""
-url_dataset: https://github.com/mengxueHou/human-blimp-interaction
-url_poster: ''
+url_pdf: "https://link.springer.com/article/10.1007/s10514-022-10058-5"
+url_code: ''
+url_dataset: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: https://youtu.be/4JavPaOVKio
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -63,13 +62,3 @@ projects: [planning]
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
