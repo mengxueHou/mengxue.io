@@ -46,9 +46,9 @@ featured: true
 url_pdf: 'https://ieeexplore.ieee.org/abstract/document/8867327'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://github.com/mengxueHou/mengxue.io/blob/4da974728d02aad3f1a0fa7bb4fd3edd0f741a4d/static/uploads/OCEANS_Marseille_poster_v2.pdf'
 url_project: ''
-url_slides: 'https://github.com/mengxueHou/mengxue.io/blob/4da974728d02aad3f1a0fa7bb4fd3edd0f741a4d/static/uploads/OCEANS_Marseille_poster_v2.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
