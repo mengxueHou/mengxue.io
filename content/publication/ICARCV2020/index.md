@@ -20,8 +20,7 @@ publication_types: ["1"]
 publication: "*16th International Conference on Control, Automation, Robotics and Vision*"
 publication_short: "ICARCV"
 
-abstract: Swing oscillation is widely observed among indoor miniature autonomous blimps (MABs) due to their underactuated design and unique aerodynamic shape. A detailed dynamics model is critical for investigating this undesired movement and designing controllers to stabilize the oscillation. This paper presents a motion model that describes the coupled translational
-and rotational movements of a typical indoor MAB with saucer shaped envelope. The kinematics and dynamic model of the MAB are simplified from the six-degrees-of-freedom (6-DOF) Newton–Euler equations of underwater vehicles. The model is then reduced to 3-DOF given the symmetrical design of the MAB around its vertical axis. Parameters of the motion model are estimated from the system identification experiments, and validated with experimental data.
+abstract: Swing oscillation is widely observed among indoor miniature autonomous blimps (MABs) due to their underactuated design and unique aerodynamic shape. A detailed dynamics model is critical for investigating this undesired movement and designing controllers to stabilize the oscillation. This paper presents a motion model that describes the coupled translational and rotational movements of a typical indoor MAB with saucer shaped envelope. The kinematics and dynamic model of the MAB are simplified from the six-degrees-of-freedom (6-DOF) Newton–Euler equations of underwater vehicles. The model is then reduced to 3-DOF given the symmetrical design of the MAB around its vertical axis. Parameters of the motion model are estimated from the system identification experiments, and validated with experimental data.
 # Summary. An optional shortened abstract.
 summary: ""
 
