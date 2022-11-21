@@ -43,12 +43,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/8867327'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://github.com/mengxueHou/mengxue.io/blob/4da974728d02aad3f1a0fa7bb4fd3edd0f741a4d/static/uploads/OCEANS_Marseille_poster_v2.pdf'
 url_source: ''
 url_video: ''
 
@@ -72,5 +72,5 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: "oceans 2019.pdf"
+slides: ""
 ---
