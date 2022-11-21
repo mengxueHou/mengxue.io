@@ -26,7 +26,7 @@ publication_short: ""
 abstract: A bounded cost path planning method is developed for underwater vehicles assisted by a data-driven flow modeling method. The modeled flow field is partitioned as a set of cells of piece-wise constant flow speed. A flow partition algorithm and a parameter estimation algorithm are proposed to learn the flow field structure and parameters with justified convergence. A bounded cost path planning algorithm is developed taking advantage of the partitioned flow model. An extended potential search method is proposed to determine the sequence of partitions that the optimal path crosses. The optimal path within each partition is then determined by solving a constrained optimization problem. Theoretical justification is provided for the proposed extended potential search method generating the optimal solution. The path planned has the highest probability to satisfy the bounded cost constraint. The performance of the algorithms is demonstrated with experimental and simulation results, which show that the proposed method is more computationally efficient than some of the existing methods.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Robotics
@@ -63,15 +63,5 @@ projects: [path-planning]
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
