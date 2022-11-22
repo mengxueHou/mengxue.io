@@ -34,8 +34,9 @@ experience:
  
         * Planning for Human robot teams
         * Active perception/inference
-        * 
-- title: Research Assistant
+
+
+  - title: Research Assistant
     company: Electrical and Computer Engineering, Georgia Tech
     company_url: 'https://ece.gatech.edu'
     company_logo: Purdue_Boilermakers_logo
@@ -48,6 +49,8 @@ experience:
         * Marine autonomy
         * Task and motion planning
         * Nonlinear filtering
+
+
 design:
   columns: '2'
 ---
