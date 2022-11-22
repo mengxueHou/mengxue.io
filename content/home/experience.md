@@ -39,12 +39,12 @@ experience:
   - title: Research Assistant
     company: Electrical and Computer Engineering, Georgia Tech
     company_url: 'https://ece.gatech.edu'
-    company_logo: Purdue_Boilermakers_logo
+    company_logo: GTVertical_RGB
     location: Atlanta, GA
     date_start: '2016-08-01'
     date_end: '2022-08-01'
     description: |2-
-    Advisor: Prof. [Fumin Zhang](https://fumin.ece.gatech.edu/)
+        Advisor: Prof. [Fumin Zhang](https://fumin.ece.gatech.edu/)
  
         * Marine autonomy
         * Task and motion planning
