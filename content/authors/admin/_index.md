@@ -17,11 +17,11 @@ organizations:
     url: https://engineering.purdue.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotic autonomy, mobile sensor networks, and human robot interaction. I aim to devise practical, computationally-efficient, and provably-correct algorithms that prepare robotic systems to be [**cognizant**], [**taskable**], and [**adaptive**], and can collaborate with human operators to co-exist in a complex, ever-changing and unknown environment.
+bio: My research interests include robotic autonomy, mobile sensor networks, and human robot interaction. I aim to devise practical, computationally-efficient, and provably-correct algorithms that prepare robotic systems to be **cognizant**, **taskable**, and **adaptive**, and can collaborate with human operators to co-exist in a complex, ever-changing and unknown environment.
 
 # Interests to show in About widget
 interests:
-  - Robotics
+  - Marine Robotics
   - Mobile sensor network
   - Human robot interaction
 
@@ -74,7 +74,7 @@ email: ''
 highlight_name: true
 ---
 
-I received B.S. degree in Electrical Engineering from [Shanghai Jiao Tong University](https://ee.sjtu.edu.cn/en/Default.aspx), Shanghai, China, in 2016, and PhD in Electrical and Computer Engineering from [Georgia Institute of Technology](https://ece.gatech.edu/), Atlanta, GA, USA in 2022, advised by Prof. [Fumin Zhang](https://fumin.ece.gatech.edu/). Starting from 2022, I am [Lillian Gilbreth Postdoc Fellow](https://engineering.purdue.edu/Engr/Research/GilbrethFellowships#Mengxue-Hou-intro), in College of Engineering, Purdue University, West Lafayette, USA,
+I received B.S. degree in Electrical Engineering from [Shanghai Jiao Tong University](https://ee.sjtu.edu.cn/en/Default.aspx), Shanghai, China, in 2016, and PhD in Electrical and Computer Engineering from [Georgia Institute of Technology](https://ece.gatech.edu/), Atlanta, GA, USA in 2022, advised by Prof. [Fumin Zhang](https://fumin.ece.gatech.edu/). Starting from 2022, I am a [Lillian Gilbreth Postdoc Fellow](https://engineering.purdue.edu/Engr/Research/GilbrethFellowships#Mengxue-Hou-intro), in College of Engineering, Purdue University, West Lafayette, USA,
  advised by Prof. [Shaoshuai Mou](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=124981) and Prof. [Shreyas Sundaram](https://engineering.purdue.edu/~sundara2/index.html).   My research interests include robotic autonomy, mobile sensor networks, and human robot interaction. I aim to devise practical, computationally-efficient, and provably-correct algorithms that prepare robotic systems to be **cognizant**, **taskable**, and **adaptive**, and can collaborate with human operators to co-exist in a complex, ever-changing and unknown environment.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Mengxue.pdf" "newtab" >}}resumé{{< /staticref >}}.
