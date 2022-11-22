@@ -32,9 +32,22 @@ experience:
     description: |2-
         Advisors: Prof. [Shaoshuai Mou](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=124981), Prof. [Shreyas Sundaram](https://engineering.purdue.edu/~sundara2/index.html)
  
-        * Human robot teams
+        * Planning for Human robot teams
         * Active perception/inference
-
+        * 
+- title: Research Assistant
+    company: Electrical and Computer Engineering, Georgia Tech
+    company_url: 'https://ece.gatech.edu'
+    company_logo: Purdue_Boilermakers_logo
+    location: Atlanta, GA
+    date_start: '2016-08-01'
+    date_end: '2022-08-01'
+    description: |2-
+    Advisor: Prof. [Fumin Zhang](https://fumin.ece.gatech.edu/)
+ 
+        * Marine autonomy
+        * Task and motion planning
+        * Nonlinear filtering
 design:
   columns: '2'
 ---
