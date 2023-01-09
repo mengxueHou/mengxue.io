@@ -32,7 +32,7 @@ abstract: We investigate interaction  between human and a miniature autonomous b
 # Summary. An optional shortened abstract.
 
 
-tags: [planning]
+tags: [human robot interaction]
 
 # Display this page in the Featured widget?
 featured: true
@@ -48,8 +48,8 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
-url_video: ''
+url_source: 'https://github.com/mengxueHou/human-blimp-interaction/blob/b27c2e0cbcb3931a8932efeb3d13a74ddcb1806c/README.md'
+url_video: 'https://www.youtube.com/4JavPaOVKio'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -71,5 +71,5 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
