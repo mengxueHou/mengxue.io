@@ -44,13 +44,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9561121'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_code: 
+url_dataset: 
+url_poster: 
+url_project: 
+url_slides: 'https://github.com/mengxueHou/mengxue.io/blob/43574696af72925718fa19aada15000ebb227dd7/static/uploads/ICRA_slides.pdf'
+url_source: 
+url_video: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -72,5 +72,5 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ''
+slides: 
 ---
