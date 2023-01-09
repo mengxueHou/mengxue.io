@@ -34,12 +34,12 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: "https://link.springer.com/article/10.1007/s10514-022-10058-5"
-url_code: ''
-url_dataset: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_code: 
+url_dataset: 
+url_project: 
+url_slides: 
+url_source: 
+url_video: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -60,5 +60,5 @@ projects: [planning]
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: 
 ---
