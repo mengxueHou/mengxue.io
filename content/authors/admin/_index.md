@@ -21,7 +21,7 @@ bio: My research interests include robotic autonomy, mobile sensor networks, and
 
 # Interests to show in About widget
 interests:
-  - Marine Robotics
+  - Robotics
   - Mobile sensor network
   - Human robot interaction
 
