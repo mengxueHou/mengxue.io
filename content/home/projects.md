@@ -30,11 +30,11 @@ content:
     - name: All
       tag: '*'
     - name: Robotic Planning
-      tag: Robotic planning
-    - name: Environmental Estimation
+      tag: planning
+    - name: Learning-based Filtering and Estimation
       tag: estimation
-    - name: Human Robot Interaction
-      tag: human robot interaction
+    - name: Human Robot Collaboration
+      tag: human robot collaboration
     - name: Marine Robotics
       tag: marine robotics
 
