@@ -1,8 +1,10 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: My research focuses
+summary: An outline of my research interests
 tags:
-  - Deep Learning
+  - robotics
+  - shared autonomy
+  - cyber-physical systems
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -16,7 +18,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: 
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -27,15 +29,17 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+To enable exploration of unstructured and dynamic open worlds, robotic systems have to **collaborate with human operators to co-exist in a complex, ever-changing and unknown environment**, and should feature behaviors that are **cognizant**, **adaptive**, and **taskable**: the robots need to be aware of their capabilities, identify the changes in environmental dynamics, learn from past experiences to improve system performance, and understand high-level instructions to plan multi-modal strategies that are dependent on the context in which the system is operating. Such features result in the following research questions:
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+**Cognizant:** how to represent the agent's knowledge in an unstructured environment, without a pre-defined set of scene parameters? 
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+**Taskable:** how to efficiently discover useful multi-modal distributed strategies for human-robot teams? 
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+**Adaptive:** how to learn from past sensory data to build  skills that can adapt over time to the particularities of the environment?
+
+
+In this context, my research focuses on  foundational advances in robotics and autonomy. I aim to devise practical, computationally-efficient, and provably-correct algorithms that prepare autonomous systems working synergistically with human operators to explore unknown, unstructured and dynamic environments. I will also seek to develop robotic platforms to validate the autonomy algorithms. The underlying hypothesis in my research is that the interactions between agents and  the environment provide rich information: on one hand, the robot can leverage its actions and observed effects to train a high-fidelity prediction model (Thrust A). The learned model enables planning and control synergies of interaction policy for  human-robot team (Thrust B). On the other hand, the robot can also use the historical perception data to directly learn the skills to achieve efficient sensorimotor understanding and planning (Thrust C). 
