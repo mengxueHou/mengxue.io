@@ -26,6 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: hou178@purdue.edu
+  phone: 
   address:
     street: 2144 ARMS
     city: West Lafayette
