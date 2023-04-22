@@ -1,6 +1,6 @@
 ---
 title: My research focuses
-summary: An outline of my research interests
+summary: Outline of my research interests
 tags:
   - robotics
   - human robot collaboration
