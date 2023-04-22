@@ -3,9 +3,6 @@ title: My research focuses
 summary: Outline of my research interests
 tags:
   - robotics
-  - human robot collaboration
-  - robotic planning
-  - shared autonomy
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
