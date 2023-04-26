@@ -25,8 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: hou178@purdue.edu
-  phone: 4708380980
+  email: hou178 at purdue.edu
   address:
     street: 2144 ARMS
     city: West Lafayette
