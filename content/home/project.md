@@ -51,6 +51,8 @@ subtitle = ""
 
 <img class="special-img-class" src="/uploads/research.png" />
 
+---
+
 To enable exploration of unstructured and dynamic open worlds, robotic systems have to **collaborate with human operators to co-exist in a complex, ever-changing and unknown environment**, and should feature behaviors that are **cognizant**, **adaptive**, and **taskable**: the robots need to be aware of their capabilities, identify the changes in environmental dynamics, learn from past experiences to improve system performance, and understand high-level instructions to plan multi-modal strategies that are dependent on the context in which the system is operating. Such features result in the following research questions:
 
 
