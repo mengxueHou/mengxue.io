@@ -81,5 +81,5 @@ I received B.S. degree in Electrical Engineering from [Shanghai Jiao Tong Univer
 
  **P.S. Pronounciation of my first name is "mengshway". You can also call me Meng.**
 
-**Prospective Students & Postdoc:** I will start as tenure-track assistant professor at EE department, University of Notre Dame at 2023 fall. I am actively looking for talented graduate and undergrad students and postdoc fellows interested in **robotics, control & learning**. Send me an email if you are interested! 
+**Prospective Students & Postdoc:** I will start as tenure-track assistant professor at EE department, University of Notre Dame at 2023 fall. I am actively looking for talented graduate/undergrad students & postdoc fellows interested in **robotics, control & learning**. Send me an email if you are interested! 
 
