@@ -32,7 +32,7 @@ abstract: The process-aware source seeking (PASS) problem in flow fields aims to
 # Summary. An optional shortened abstract.
 
 
-tags: [Planning]
+tags: [Robotic Planning]
 
 # Display this page in the Featured widget?
 featured: true
