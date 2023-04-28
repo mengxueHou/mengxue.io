@@ -12,7 +12,7 @@ address:
   postcode: ""
   country: ""
 
-summary: 
+summary: ""
 abstract: To enable a smart and autonomous system to be cognizant, taskable, and adaptive in exploring an unknown and unstructured environment, robotic decision-making relies on learning a parameterized knowledge representation. However, one fundamental challenge in deriving the parameterized representation is the undesirable trade-off between computation efficiency and model fidelity. This talk addresses this challenge in the context of underwater vehicle navigation in unknown marine environments. To improve fidelity of the reduced-order model, we develop a learning method to generate a non-Markovian reduced-order representation of the environmental dynamics. By incorporating the Mori-Zwanzig formalism, we prove that the proposed learning-based abstraction achieves a time-uniform model reduction error bound. Further, taking advantage of the abstracted model, we develop a novel hierarchical planning algorithm to generate the optimal multi-modal strategies with low computation cost.
 
 # Talk start and end times.
