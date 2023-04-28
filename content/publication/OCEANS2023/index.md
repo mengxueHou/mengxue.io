@@ -22,8 +22,7 @@ publication_types: ["1"]
 publication: "*OCEANS 2023 - Limerick*"
 publication_short: "OCEANS (accepted)"
 
-abstract: Underwater gliders are widely utilized for ocean sampling, surveillance, and other various oceanic applications. In the context of complex ocean environments, gliders may yield poor navigation performance due to strong ocean currents, thus requiring substantial human effort during the manual piloting process. To enhance navigation accuracy, we developed a real-time autonomous glider navigation software, named GENIoS Python, which generates waypoints based on flow predictions to assist human piloting. The software is designed to closely check glider status, provide customizable experiment settings, utilize
-lightweight computing resources, offer stably communicate with dockservers, robustly run for extended operation time, and quantitatively compare flow estimates, which add to its value as an autonomous tool for underwater glider navigation.
+abstract: Underwater gliders are widely utilized for ocean sampling, surveillance, and other various oceanic applications. In the context of complex ocean environments, gliders may yield poor navigation performance due to strong ocean currents, thus requiring substantial human effort during the manual piloting process. To enhance navigation accuracy, we developed a real-time autonomous glider navigation software, named GENIoS Python, which generates waypoints based on flow predictions to assist human piloting. The software is designed to closely check glider status, provide customizable experiment settings, utilize lightweight computing resources, offer stably communicate with dockservers, robustly run for extended operation time, and quantitatively compare flow estimates, which add to its value as an autonomous tool for underwater glider navigation.
 summary: ""
 
 tags:
