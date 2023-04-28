@@ -1,5 +1,5 @@
 ---
-title: "The rational selection of goal operations and the integration of search strategies with goal-driven marine autonomy"
+title: "The Rational Selection of Goal Operations and the Integration of Search Strategies with Goal-driven Marine Autonomy"
 authors:
 - Sravya Kondrakunta
 - Venkatsampath Raja Gogineni
