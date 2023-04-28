@@ -33,7 +33,7 @@ abstract:  In this paper, we present a Long Short-Term Memory (LSTM)-based Kalma
 # Summary. An optional shortened abstract.
 
 
-tags: [Environmental state estimation]
+tags: [Nonlinear Filtering]
 
 # Display this page in the Featured widget?
 featured: true
