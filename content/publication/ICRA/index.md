@@ -33,7 +33,7 @@ abstract: We propose a memory-constrained partition-based method to extract symb
 # Summary. An optional shortened abstract.
 
 
-tags: [planning]
+tags: [Robotic Planning, Automated Planning]
 
 # Display this page in the Featured widget?
 featured: true
@@ -65,7 +65,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - Robotic planning
+  - Robotic Planning
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
