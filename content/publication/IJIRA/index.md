@@ -25,7 +25,8 @@ publication_short: ""
 abstract: The Motion Tomography (MT) algorithm maps an ocean flow field using sporadically measured positions of underwater vehicles. A key step of the MT algorithm, called trajectory tracing, is to estimate the underwater trajectories of the vehicles based on the estimated flow field and known start and end positions. This paper extends the MT algorithm by developing a set of analytical formulas to compute the underwater trajectories.   These analytical formulas enable us to study the convergence of the MT algorithm, and we prove that the estimated trajectory and measured trajectory end positions converge as the MT algorithm proceeds. Experimental results are collected on the Georgia Tech Miniature Autonomous Blimps to demonstrate that the MT algorithm can be applied to reconstruct a wind field in an indoor environment using nothing but sparse position measurements. We further validate the MT algorithm using data collected by an underwater glider deployed in the South Atlantic Bight. We demonstrate MT is able to reconstruct the ocean flow field using recorded glider surfacing positions and improve the spatial distribution of a dead reckoning flow field map.
 
 tags:
-- Flow mapping
+- Marine Autonomy
+- Inverse Problems
 featured: false
 
 # links:
