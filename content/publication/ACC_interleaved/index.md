@@ -33,7 +33,7 @@ abstract: We propose an interleaved method for robotic task and motion planning 
 # Summary. An optional shortened abstract.
 
 
-tags: [planning]
+tags: [Robotic Planning]
 
 # Display this page in the Featured widget?
 featured: true
