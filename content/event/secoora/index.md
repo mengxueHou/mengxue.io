@@ -29,7 +29,7 @@ authors: []
 tags: [Marine Autonomy]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: ''
@@ -38,7 +38,7 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: "/uploads/Glider_tech_talk.pdf" 
+url_slides: '/uploads/Glider_tech_talk.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
