@@ -32,8 +32,8 @@ experience:
     description: |2-
         Advisors: Prof. [Shaoshuai Mou](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=124981), Prof. [Shreyas Sundaram](https://engineering.purdue.edu/~sundara2/index.html)
  
-        * Planning for Human robot teams
-        * Active perception/inference
+        * Human Robot Collaboration
+        * Multi-agent Systems
 
 
   - title: Research Assistant
@@ -46,9 +46,9 @@ experience:
     description: |2-
         Advisor: Prof. [Fumin Zhang](https://fumin.ece.gatech.edu/)
  
-        * Marine autonomy
-        * Task and motion planning
-        * Nonlinear filtering
+        * Marine Autonomy
+        * Task and Motion Planning
+        * Nonlinear Filtering
 
 
 design:
