@@ -18,7 +18,7 @@ abstract: To enable a smart and autonomous system to be cognizant, taskable, and
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-02-24T14:00:00Z'
-date_end: '2023-02-34T15:00:00Z'
+date_end: '2023-02-14T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
