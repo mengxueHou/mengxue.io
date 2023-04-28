@@ -38,7 +38,7 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: '/uploads/Glider_tech_talk.pdf'
+url_slides: /uploads/Glider_tech_talk.pdf
 url_video: ''
 
 # Markdown Slides (optional).
