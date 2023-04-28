@@ -27,7 +27,7 @@ abstract: We propose an algorithm using method of evolving junctions to solve th
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Planning
+- Robotic Planning
 featured: false
 
 # links:
