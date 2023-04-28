@@ -1,5 +1,5 @@
 ---
-title: "Method of evolving junction on optimal path planning in flows fields"
+title: "Method of Evolving Junction on Optimal Path Planning in Flows Fields"
 authors:
 - Haoyan Zhai
 - admin
