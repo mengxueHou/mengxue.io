@@ -33,7 +33,7 @@ abstract: In this paper, we present a flow field partition method that extracts 
 # Summary. An optional shortened abstract.
 
 
-tags: [planning]
+tags: [Model Reduction, Marine Autonomy]
 
 # Display this page in the Featured widget?
 featured: true
