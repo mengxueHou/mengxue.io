@@ -32,7 +32,7 @@ abstract: We investigate interaction  between human and a miniature autonomous b
 # Summary. An optional shortened abstract.
 
 
-tags: [human robot interaction]
+tags: [Human Robot Interaction, Blimp]
 
 # Display this page in the Featured widget?
 featured: true
