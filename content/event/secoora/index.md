@@ -46,7 +46,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ''
+slides: "/uploads/Glider_tech_talk.pdf" 
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -56,5 +56,3 @@ slides: ''
 projects:
   - Marine Autonomy
 ---
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
