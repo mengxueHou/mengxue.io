@@ -19,9 +19,6 @@ main:
   - name: Publications
     url: '#publications'
     weight: 60
-  - name: Student
-    url: '#student'
-    weight: 70
   - name: Contact
     url: '#contact'
     weight: 80
