@@ -7,6 +7,7 @@ widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 weight = 105  # Order that this section will appear.
 
+active: false
 title = "Prospective Students"
 subtitle = ""
 
