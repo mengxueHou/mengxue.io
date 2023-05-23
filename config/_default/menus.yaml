@@ -7,15 +7,15 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: News
-    url: '#recent_news'
-    weight: 30
   - name: Research
     url: '#project'
-    weight: 40
+    weight: 20
+    - name: News
+    url: '#recent_news'
+    weight: 30
   - name: Talks
     url: '#talks'
-    weight: 50
+    weight: 40
   - name: Publications
     url: '#publications'
     weight: 60
