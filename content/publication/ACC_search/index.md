@@ -25,7 +25,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2023 American Control Conference*
-publication_short: In *ACC (accepted)*
+publication_short: In *ACC (in press)*
 
 abstract: The process-aware source seeking (PASS) problem in flow fields aims to find an informative trajectory to reach an unknown source location while taking the energy consumption in the flow fields into consideration. Taking advantage of the existing methods on flow field partition, this paper formulates this problem as a task and motion planning (TAMP) problem and proposes a bi-level hierarchical planning framework to decouple the planning of inter-region transition and inner-region trajectory by introducing inter-region junctions. An integrated strategy is utilized to enable efficient upper-level planning by investigating the optimal solution of the lower-level planner. In order to leverage the triggering rate and the performance, a dynamic event-triggered mechanism is introduced to decide the triggering conditions for both measurements and re-plans. The proposed algorithm provides guaranteed convergence of the trajectory, and achieves automatic trade-off between exploration and exploitation. The simulation results demonstrate that the proposed algorithm greatly reduces the energy consumption as well as the frequencies of measurements and re-plans.
 
