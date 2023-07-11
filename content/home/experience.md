@@ -28,7 +28,7 @@ experience:
     company_logo: Purdue_Boilermakers_logo
     location: West Lafayette, IN
     date_start: '2022-08-01'
-    date_end: ''
+    date_end: '2023-06-30'
     description: |2-
         Advisors: Prof. [Shaoshuai Mou](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=124981), Prof. [Shreyas Sundaram](https://engineering.purdue.edu/~sundara2/index.html)
  
