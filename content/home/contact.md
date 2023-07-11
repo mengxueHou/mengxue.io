@@ -25,12 +25,12 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: hou178 at purdue.edu
+  email: mhou at nd.edu
   address:
-    street: 2144 ARMS
-    city: West Lafayette
+    street: 311A Cushing Hall, University of Notre Dame
+    city: South Bend
     region: IN
-    postcode: '47907'
+    postcode: '46556'
     country: United States
     country_code: US
 
