@@ -13,7 +13,7 @@ authors:
 # Author notes (optional)
 
 date: '2023-01-01T00:00:00Z'
-doi: ''
+doi: '10.23919/ACC55779.2023.10156651'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-01-01T00:00:00Z'
@@ -26,7 +26,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2023 American Control Conference*
-publication_short: In *ACC (in press)*
+publication_short: In *ACC*
 
 abstract: We propose an interleaved method for robotic task and motion planning (TAMP) problems, which involves optimizing both continuous and discrete dynamic behaviors. The coupling between the task planning and motion planning results in a very large search space, causing challenge for computing the optimal solution. To address this challenge, we develop a novel bi-level algorithm leveraging the Depth First Search (DFS) algorithm and the Monte Carlo Tree Search (MCTS) algorithm to solve the TAMP. Incorporating task completion cost estimation from the motion planning level, we solve the task planning problem in a computationally efficient manner. We prove that our proposed TAMP algorithm is complete, i.e., it always finds the optimal solution if there exists one. Finally, we present simulation results to demonstrate that the proposed algorithm can find the optimal solution of the TAMP problem with lower computation cost than existing algorithms. 
 
