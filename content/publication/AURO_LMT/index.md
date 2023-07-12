@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: 'https://www.researchsquare.com/article/rs-2105933/v1'
 url_code: 
 url_dataset:
 url_poster: 
