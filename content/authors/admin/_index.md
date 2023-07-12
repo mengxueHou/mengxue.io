@@ -10,10 +10,10 @@ last_name: Hou
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor
+role: Assistant Professor, Electrical Engineering
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Electrical Engineering, University of Notre Dame
+  - name: University of Notre Dame
     url: https://ee.nd.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -74,8 +74,7 @@ email: ''
 highlight_name: true
 ---
 
-I received B.S. degree in Electrical Engineering from [Shanghai Jiao Tong University](https://ee.sjtu.edu.cn/en/Default.aspx), Shanghai, China, in 2016, and PhD in Electrical and Computer Engineering from [Georgia Institute of Technology](https://ece.gatech.edu/), Atlanta, GA, USA in 2022, advised by Prof. [Fumin Zhang](https://fumin.ece.gatech.edu/). From Aug. 2022 to Jun. 2023, I was a [Lillian Gilbreth Postdoc Fellow](https://engineering.purdue.edu/Engr/Research/GilbrethFellowships#Mengxue-Hou-intro), in College of Engineering, Purdue University, West Lafayette, USA,
- advised by Prof. [Shaoshuai Mou](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=124981) and Prof. [Shreyas Sundaram](https://engineering.purdue.edu/~sundara2/index.html).   My research interests include robotics, autonomy, and human robot collaboration. I aim to devise practical, computationally-efficient, and provably-correct algorithms that prepare robotic systems to be **cognizant**, **taskable**, and **adaptive**, and can **collaborate with humans** to co-exist in a complex, ever-changing and unknown environment.
+I received B.S. degree in Electrical Engineering from [Shanghai Jiao Tong University](https://ee.sjtu.edu.cn/en/Default.aspx), Shanghai, China, in 2016, and PhD in Electrical and Computer Engineering from [Georgia Institute of Technology](https://ece.gatech.edu/), Atlanta, GA, USA in 2022. From Aug. 2022 to Jun. 2023, I was a [Lillian Gilbreth Postdoc Fellow](https://engineering.purdue.edu/Engr/Research/GilbrethFellowships#Mengxue-Hou-intro), in College of Engineering, Purdue University, West Lafayette, USA.   My research interests include robotics, autonomy, and human robot collaboration. I aim to devise practical, computationally-efficient, and provably-correct algorithms that prepare robotic systems to be **cognizant**, **taskable**, and **adaptive**, and can **collaborate with humans** to co-exist in a complex, ever-changing and unknown environment.
  
  **P.S. Pronounciation of my first name is "mungshway". You can also call me Meng.**
 
