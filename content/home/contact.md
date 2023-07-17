@@ -27,7 +27,7 @@ content:
   # Contact details (edit or remove options as required)
   email: mhou at nd.edu
   address:
-    street: 311A Cushing Hall, University of Notre Dame
+    street: Cushing Hall, University of Notre Dame
     city: South Bend
     region: IN
     postcode: '46556'
