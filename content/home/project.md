@@ -49,7 +49,7 @@ subtitle = ""
  css_class = ""
 +++
 
-#<img class="special-img-class" src="/uploads/research.png" />
+# <img class="special-img-class" src="/uploads/research.png" />
 
 ---
 
