@@ -26,6 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: mhou at nd.edu
+  phone: 574-631-8015
   address:
     street: Cushing Hall, University of Notre Dame
     city: South Bend
