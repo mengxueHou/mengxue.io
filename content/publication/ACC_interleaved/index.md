@@ -13,7 +13,7 @@ authors:
 # Author notes (optional)
 
 date: '2023-01-01T00:00:00Z'
-doi: '10.23919/ACC55779.2023.10156651'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-01-01T00:00:00Z'
