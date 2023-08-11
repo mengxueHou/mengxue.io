@@ -23,7 +23,8 @@ bio: My research interests include robotic autonomy, mobile sensor networks, and
 interests:
   - Robotics
   - Autonomy
-  - Human robot interaction
+  - Machine Learning
+  - Human Robot Teaming
 
 
 # Education to show in About widget
@@ -76,7 +77,7 @@ highlight_name: true
 
 I received B.S. degree in Electrical Engineering from [Shanghai Jiao Tong University](https://ee.sjtu.edu.cn/en/Default.aspx), Shanghai, China, in 2016, and PhD in Electrical and Computer Engineering from [Georgia Institute of Technology](https://ece.gatech.edu/), Atlanta, GA, USA in 2022. From Aug. 2022 to Jun. 2023, I was a [Lillian Gilbreth Postdoc Fellow](https://engineering.purdue.edu/Engr/Research/GilbrethFellowships#Mengxue-Hou-intro), in College of Engineering, Purdue University, West Lafayette, USA.   My research interests include robotics, autonomy, and human robot collaboration. I aim to devise practical, computationally-efficient, and provably-correct algorithms that prepare robotic systems to be **cognizant**, **taskable**, and **adaptive**, and can **collaborate with humans** to co-exist in a complex, ever-changing and unknown environment.
  
- **P.S. Pronounciation of my first name is "mungshway". You can also call me Meng.**
+ **P.S. Pronounciation of my first name is "mung-shway". You can also call me Meng.**
 
  **Prospective Students & Postdoc:** I am actively looking for talented graduate/undergrad students & postdoc fellows interested in **robotics, control & learning**. Send me an email if you are interested! 
 
