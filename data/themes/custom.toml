@@ -3,13 +3,13 @@ name = "custom"
 
 [light]
   # Primary
-  primary: "#1565c0"
+  primary = "#1565c0"
 
   # Menu
-  menu_primary: "#0c2340"
-  menu_text: "#edf2f9"
-  menu_text_active: "#ae9142"
-  menu_title: "#ae9142"
+  menu_primary = "#0c2340"
+  menu_text = "rgb(255, 255, 255)"
+  menu_text_active = "#ae9142"
+  menu_title = "#ae9142"
 
   # Home sections
   home_section_odd = "rgb(255, 255, 255)"
