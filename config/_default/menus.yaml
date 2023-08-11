@@ -22,12 +22,15 @@ main:
   - name: Students
     url: '#student'
     weight: 70
+  - name: Teaching
+    url: '#teaching'
+    weight: 80
   - name: Contact
     url: '#contact'
-    weight: 80
+    weight: 90
   - name: CV
     url: uploads/CV_Mengxue.pdf
-    weight: 90
+    weight: 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
