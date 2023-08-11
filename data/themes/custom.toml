@@ -11,6 +11,9 @@ name = "custom"
   menu_text_active = "#ae9142"
   menu_title = "#ae9142"
 
+  link = "#1c4f8f"
+  link_hover = "#e1e8f2"
+
   # Home sections
   home_section_odd = "rgb(255, 255, 255)"
   home_section_even = "#f2f2f2"
