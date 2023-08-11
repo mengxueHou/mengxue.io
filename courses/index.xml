@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Courses | Mengxue Hou</title><link>www.mengxuehou.com/courses/</link><atom:link href="www.mengxuehou.com/courses/index.xml" rel="self" type="application/rss+xml"/><description>Courses</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 1990 00:00:00 +0000</lastBuildDate><image><url>/www.mengxuehou.com/media/icon_huf518f70123785c66710b5914f5d39b28_71877_512x512_fill_lanczos_center_3.png</url><title>Courses</title><link>www.mengxuehou.com/courses/</link></image><item><title>EE 67074-AI Planning</title><link>www.mengxuehou.com/courses/2023fall/</link><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid>www.mengxuehou.com/courses/2023fall/</guid><description>&lt;p>&lt;strong>Description&lt;/strong>&lt;/p>
+&lt;p>Realizing the dreams of autonomy requires autonomous systems that learn to make good decisions. Decision-making is a fundamental challenge in an enormous range of tasks, including robotics, transportation systems, and smart manufacturing, etc. This class will provide a solid introduction to the field of AI planning and decision-making, with a focus on robotic applications. The lectures will start from AI planning methods for deterministic systems and approach to learning near-optimal decisions from past experiences in the real world full of uncertainty. This course is intended for graduate students interested in robotics, autonomy, control, and learning.&lt;/p>
+&lt;hr>
+&lt;p>&lt;strong>Course outline&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Deterministic decision-making: graph search, AI planning &amp;amp; automated planning, dynamic programming, model predictive control&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Decision-making under uncertainty: Markov Chain, Markov Decision Processes, Hidden Markov Chain, Partially Observable Markov Decision Processes&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Reinforcement Learning: model-based RL, policy gradients, value function based methods, actor-critic methods&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>We will cover these topics through a combination of lectures, assignments, and programming-based projects.&lt;/p>
+&lt;hr>
+&lt;p>&lt;strong>Textbooks&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>(Recommended) Artificial Intelligence: A Modern Approach, Stuart J. Russell and Peter Norvig&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>(Recommended) Principles of Robot Motion: Theory, Algorithms, and Implementations, Howie Choset, Kevin Lynch, Seth Hutchinson, George Kantor, Wolfram Burgard&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>(Recommended) Reinforcement Learning: An Introduction, Sutton and Barto, 2nd Edition&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;strong>Course Materials&lt;/strong>&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Event&lt;/th>
+&lt;th>Date&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;th>Materials&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Lecture 1&lt;/td>
+&lt;td>Aug. 22&lt;/td>
+&lt;td>Introduction&lt;/td>
+&lt;td>&lt;a href="">Slides&lt;/a>, &lt;a href="">Lecture Notes&lt;/a>, &lt;a href="https://cs231n.github.io/python-numpy-tutorial/" target="_blank" rel="noopener">Python tutorial&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 2&lt;/td>
+&lt;td>Aug. 24&lt;/td>
+&lt;td>Search Algorithms&lt;/td>
+&lt;td>[Slides], [Lecture Notes]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 3&lt;/td>
+&lt;td>Aug. 29&lt;/td>
+&lt;td>More Search Algorithms&lt;/td>
+&lt;td>[Slides], [Lecture Notes]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Homework&lt;/td>
+&lt;td>Aug. 29&lt;/td>
+&lt;td>HW1&lt;/td>
+&lt;td>[HW1], [HW1Sol]&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>
