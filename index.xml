@@ -145,7 +145,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-673954281" class="chart">&lt;/div>
+&lt;div id="chart-467832951" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -154,7 +154,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-673954281', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-467832951', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -511,6 +511,7 @@ data-background-image="/media/boards.jpg"
 &lt;h1 id="questions">Questions?&lt;/h1>
 &lt;p>&lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Parameter Identification of Blimp Dynamics through Swinging Motion</title><link>www.mengxuehou.com/publication/icarcv2018/</link><pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate><guid>www.mengxuehou.com/publication/icarcv2018/</guid><description/></item><item><title>Path Tracking Error Analysis for Underwater Glider Navigation in a Spatially and Temporally Varying Flow Field</title><link>www.mengxuehou.com/publication/oceans2018/</link><pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate><guid>www.mengxuehou.com/publication/oceans2018/</guid><description/></item><item><title>News</title><link>www.mengxuehou.com/news/</link><pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate><guid>www.mengxuehou.com/news/</guid><description>
+&lt;p>&lt;strong>[08/23]&lt;/strong> Welcome &lt;a href="https://express.adobe.com/page/LpFu0uAro7vrz/" target="_blank" rel="noopener">Xiran&lt;/a> and &lt;a href="https://zy2018666.wixsite.com/yuzhourobotics" target="_blank" rel="noopener">Yu&lt;/a> to &lt;a href="https://mengxuehou.github.io/ND-ROAR-lab/" target="_blank" rel="noopener">ROAR Lab&lt;/a>!&lt;/p>
 &lt;p>&lt;strong>[08/23]&lt;/strong> I have started as assistant professor at University of Notre Dame!&lt;/p>
 &lt;p>&lt;strong>[04/23]&lt;/strong> I am selected to attend the &lt;a href="https://risingstars.linklab.virginia.edu/2023/" target="_blank" rel="noopener">CPS Rising Stars 2023 workshop&lt;/a> at University of Virginia!&lt;/p>
 &lt;p>&lt;strong>[04/23]&lt;/strong> I am co-organizing an invited session on &lt;a href="https://css.paperplaza.net/conferences/scripts/rtf/ACC23_ProgramAtAGlanceWeb.html#wea14_" target="_blank" rel="noopener">Predictive Control and Planning Methods for Robotics Systems&lt;/a> at ACC 2023!&lt;/p>
