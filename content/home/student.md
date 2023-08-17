@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 weight = 105  # Order that this section will appear.
 
 
-title = "Prospective Students"
+title = "Students"
 subtitle = ""
 
 
@@ -51,9 +51,4 @@ subtitle = ""
  css_class = ""
 +++
 
-I am actively looking for talented graduate/undergrad students & postdoc fellows interested in robotics, control & learning.
-
-**Prospective Ph.D. Students & postdoc fellows:** If you are interested in pursuing a PhD in my group, please apply to the Notre Dame EE graduate program, and mention me in your research statement. Please also send me an email with your CV and the research areas that interest you. If you are interested in pursuing a postdoc, email me directly with your CV and research interests. Strong candidates should be self-motivated, passionate about research, interested in robotics, and have strong programming skills. Candidates with ANY of the following qualifications would be particularly encouraged: (1) prior experience with robotics or control research; (2) knowledge in machine learning & optimization; (3) programming skills in matlab or python. 
-
-
-**Note:** The deadline for admissions into the Spring ’24 Notre Dame [EE graduate program](https://graduateschool.nd.edu/degree-programs/?id=program-78404) is Nov. 1, 2023!
+Please visit our [ROAR](https://sites.nd.edu/roarlab/) (Robotics and Autonomy Research) lab for more information. 
