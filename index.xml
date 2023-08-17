@@ -145,7 +145,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-435879261" class="chart">&lt;/div>
+&lt;div id="chart-826934175" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -154,7 +154,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-435879261', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-826934175', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -562,28 +562,28 @@ data-background-image="/media/boards.jpg"
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>Lecture 1&lt;/td>
-&lt;td>Aug. 22&lt;/td>
-&lt;td>Introduction&lt;/td>
+&lt;td>Lecture 1:&lt;/td>
+&lt;td>:Aug. 22:&lt;/td>
+&lt;td>:Introduction&lt;/td>
 &lt;td>&lt;a href="">Slides&lt;/a>, &lt;a href="">Lecture Notes&lt;/a>, &lt;a href="https://cs231n.github.io/python-numpy-tutorial/" target="_blank" rel="noopener">Python tutorial&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Lecture 2&lt;/td>
-&lt;td>Aug. 24&lt;/td>
-&lt;td>Search Algorithms&lt;/td>
-&lt;td>[Slides], [Lecture Notes]&lt;/td>
+&lt;td>Lecture 2:&lt;/td>
+&lt;td>:Aug. 24:&lt;/td>
+&lt;td>:Search Algorithms:&lt;/td>
+&lt;td>: [Slides], [Lecture Notes]&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Lecture 3&lt;/td>
-&lt;td>Aug. 29&lt;/td>
-&lt;td>More Search Algorithms&lt;/td>
-&lt;td>[Slides], [Lecture Notes]&lt;/td>
+&lt;td>Lecture 3:&lt;/td>
+&lt;td>:Aug. 29:&lt;/td>
+&lt;td>:More Search Algorithms:&lt;/td>
+&lt;td>:[Slides], [Lecture Notes]&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Homework&lt;/td>
-&lt;td>Aug. 29&lt;/td>
-&lt;td>HW1&lt;/td>
-&lt;td>[HW1], [HW1Sol]&lt;/td>
+&lt;td>Homework:&lt;/td>
+&lt;td>:Aug. 29:&lt;/td>
+&lt;td>:HW1:&lt;/td>
+&lt;td>:[HW1], [HW1Sol]&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table></description></item><item><title/><link>www.mengxuehou.com/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>www.mengxuehou.com/admin/config.yml</guid><description/></item></channel></rss>
