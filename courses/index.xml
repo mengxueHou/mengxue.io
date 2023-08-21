@@ -28,40 +28,5 @@
 &lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;p>&lt;strong>Course Materials&lt;/strong>&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Event&lt;/th>
-&lt;th>Date&lt;/th>
-&lt;th>Description&lt;/th>
-&lt;th>Materials&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Lecture 1&lt;/td>
-&lt;td>Aug. 22&lt;/td>
-&lt;td>Introduction&lt;/td>
-&lt;td>&lt;a href="">Slides&lt;/a>, &lt;a href="">Lecture Notes&lt;/a>, &lt;a href="https://cs231n.github.io/python-numpy-tutorial/" target="_blank" rel="noopener">Python tutorial&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Lecture 2&lt;/td>
-&lt;td>Aug. 24&lt;/td>
-&lt;td>Search Algorithms&lt;/td>
-&lt;td>[Slides], [Lecture Notes]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Lecture 3&lt;/td>
-&lt;td>Aug. 29&lt;/td>
-&lt;td>More Search Algorithms&lt;/td>
-&lt;td>[Slides], [Lecture Notes]&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Homework&lt;/td>
-&lt;td>Aug. 29&lt;/td>
-&lt;td>HW1&lt;/td>
-&lt;td>[HW1], [HW1Sol]&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table></description></item></channel></rss>
+&lt;p>&lt;strong>Syllabus&lt;/strong>&lt;/p>
+&lt;p>The syllabus is both available on canvas and &lt;a href="Fall2023_teaching/67074_syllabus.pdf">here&lt;/a>&lt;/p></description></item></channel></rss>
