@@ -33,10 +33,10 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
-url_code: 
+url_pdf: 'https://www.researchsquare.com/article/rs-3266750/v1'
+url_code: 'https://github.com/mengxueHou/M-Z-based-Belief-Abstraction-for-Symbolic-Planning' 
 url_dataset:
-url_poster: 
+url_poster: '/uploads/POMDP_poster.pdf'
 url_project: 
 url_slides: 
 url_source: 
