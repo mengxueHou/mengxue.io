@@ -51,6 +51,5 @@ subtitle = ""
  css_class = ""
 +++
 
-Please visit the [ROAR](https://sites.nd.edu/roarlab/) (Robotics and Autonomy Research) lab for more information. 
-
-[![](https://sites.nd.edu/roarlab/)](/uploads/ROAR_icon_wide.png)
+Please visit  [ROAR](https://sites.nd.edu/roarlab/) (Robotics and Autonomy Research) lab website for more information. 
+ <img src="/uploads/ROAR_icon_wide.png" alt="icon" class="img-responsive" width=400px height=200px>
