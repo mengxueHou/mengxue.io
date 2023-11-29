@@ -53,4 +53,4 @@ subtitle = ""
 
 Please visit the [ROAR](https://sites.nd.edu/roarlab/) (Robotics and Autonomy Research) lab for more information. 
 
-<img src="/uploads/ROAR_icon_wide.png" alt="icon" class="img-responsive">
+[![](https://sites.nd.edu/roarlab/)](/uploads/ROAR_icon_wide.png)
