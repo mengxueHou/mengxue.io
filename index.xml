@@ -145,7 +145,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-984732156" class="chart">&lt;/div>
+&lt;div id="chart-632798541" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -154,7 +154,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-984732156', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-632798541', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -520,7 +520,19 @@ data-background-image="/media/boards.jpg"
 &lt;p>&lt;strong>Cognizant:&lt;/strong> how to represent the agent&amp;rsquo;s knowledge in an unstructured environment, without a pre-defined set of scene parameters?&lt;/p>
 &lt;p>&lt;strong>Taskable:&lt;/strong> how to efficiently discover useful multi-modal distributed strategies for human-robot teams?&lt;/p>
 &lt;p>&lt;strong>Adaptive:&lt;/strong> how to learn from past sensory data to build skills that can adapt over time to the particularities of the environment?&lt;/p>
-&lt;p>In this context, my research focuses on foundational advances in robotics and autonomy. I aim to devise practical, computationally-efficient, and provably-correct algorithms that prepare autonomous systems working synergistically with human operators to explore unknown, unstructured and dynamic environments. I will also seek to develop robotic platforms to validate the autonomy algorithms. The underlying hypothesis in my research is that the interactions between agents and the environment provide rich information: on one hand, the robot can leverage its actions and observed effects to train a high-fidelity prediction model (Thrust A). The learned model enables planning and control synergies of interaction policy for human-robot team (Thrust B). On the other hand, the robot can also use the historical perception data to directly learn the skills to achieve efficient sensorimotor understanding and planning (Thrust C).&lt;/p></description></item><item><title>An improved full-form-dynamic-linearization based MFAC for a class of nonlinear systems with exogenous disturbance</title><link>www.mengxuehou.com/publication/ccc2015/</link><pubDate>Wed, 08 Jul 2015 00:00:00 +0000</pubDate><guid>www.mengxuehou.com/publication/ccc2015/</guid><description/></item><item><title>Simulation comparison among three data-driven control methods for the planar manipulator</title><link>www.mengxuehou.com/publication/ascc2015/</link><pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate><guid>www.mengxuehou.com/publication/ascc2015/</guid><description/></item><item><title>EE 67074-AI Planning</title><link>www.mengxuehou.com/courses/2023fall/</link><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid>www.mengxuehou.com/courses/2023fall/</guid><description>&lt;p>&lt;strong>Description&lt;/strong>&lt;/p>
+&lt;p>In this context, my research focuses on foundational advances in robotics and autonomy. I aim to devise practical, computationally-efficient, and provably-correct algorithms that prepare autonomous systems working synergistically with human operators to explore unknown, unstructured and dynamic environments. I will also seek to develop robotic platforms to validate the autonomy algorithms. The underlying hypothesis in my research is that the interactions between agents and the environment provide rich information: on one hand, the robot can leverage its actions and observed effects to train a high-fidelity prediction model (Thrust A). The learned model enables planning and control synergies of interaction policy for human-robot team (Thrust B). On the other hand, the robot can also use the historical perception data to directly learn the skills to achieve efficient sensorimotor understanding and planning (Thrust C).&lt;/p></description></item><item><title>An improved full-form-dynamic-linearization based MFAC for a class of nonlinear systems with exogenous disturbance</title><link>www.mengxuehou.com/publication/ccc2015/</link><pubDate>Wed, 08 Jul 2015 00:00:00 +0000</pubDate><guid>www.mengxuehou.com/publication/ccc2015/</guid><description/></item><item><title>Simulation comparison among three data-driven control methods for the planar manipulator</title><link>www.mengxuehou.com/publication/ascc2015/</link><pubDate>Fri, 08 May 2015 00:00:00 +0000</pubDate><guid>www.mengxuehou.com/publication/ascc2015/</guid><description/></item><item><title>EE 20221-Signal and Information Systems</title><link>www.mengxuehou.com/courses/2024spring/</link><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid>www.mengxuehou.com/courses/2024spring/</guid><description>&lt;p>&lt;strong>Description&lt;/strong>&lt;/p>
+&lt;p>This course introduces students to the concept of information carrying electrical signals and how as Electrical Engineers we can create, manipulate, transmit and receive information by electronic means. The course covers, basic linear circuit analysis; elementary signal theory; time and frequency-domain analysis; and the sampling theorem. The course will explore applications of these techniques to real-world problems.&lt;/p>
+&lt;hr>
+&lt;p>&lt;strong>Textbooks&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>(Recommended) D. Johnson, Fundamentals of Electrical Engineering, I.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>(Recommended) Signals and Systems, A. Oppenheim, A. Willsky, S. Nawab&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr></description></item><item><title>EE 67074-AI Planning</title><link>www.mengxuehou.com/courses/2023fall/</link><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid>www.mengxuehou.com/courses/2023fall/</guid><description>&lt;p>&lt;strong>Description&lt;/strong>&lt;/p>
 &lt;p>Realizing the dreams of autonomy requires autonomous systems that learn to make good decisions. Decision-making is a fundamental challenge in an enormous range of tasks, including robotics, transportation systems, and smart manufacturing, etc. This class will provide a solid introduction to the field of AI planning and decision-making, with a focus on robotic applications. The lectures will start from AI planning methods for deterministic systems and approach to learning near-optimal decisions from past experiences in the real world full of uncertainty. This course is intended for graduate students interested in robotics, autonomy, control, and learning.&lt;/p>
 &lt;hr>
 &lt;p>&lt;strong>Course outline&lt;/strong>&lt;/p>
