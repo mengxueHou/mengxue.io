@@ -5,16 +5,16 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-weight = 105  # Order that this section will appear.
+share = false
 
 
-title = "Teaching"
-subtitle = ""
-
-
+title = "EE 20221-Signal and Information Systems"
+date='1990-01-01T00:00:00+00:00'
+lastmod='2023-12-25T00:00:00+00:00'
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   # columns = "2"
+
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -51,18 +51,19 @@ subtitle = ""
  css_class = ""
 +++
 
-**Teaching at University at Notre Dame**
+**Description** 
 
-[EE 67074-AI Planning: from Graph Search to Reinforcement Learning](/courses/2023fall), Fall 2023
+This course introduces students to the concept of information carrying electrical signals and how as Electrical Engineers we can create, manipulate, transmit and receive information by electronic means. The course covers, basic linear circuit analysis; elementary signal theory; time and frequency-domain analysis; and the sampling theorem. The course will explore applications of these techniques to real-world problems.
 
-
-[EE 20221-Signal and Information Systems](/courses/2024fall), Fall 2024
 
 ---
 
-**Teaching at Georgia Institute of Technology**
 
-ECE Vertically Integrated Projects (VIP), Course Instructor, Fall 2018 - Spring 2019
+**Textbooks**
 
-ECE 2026, Introduction to Signal Processing, Teaching Assistant, Fall 2016 - Summer 2017
+- (Recommended) D. Johnson, Fundamentals of Electrical Engineering, I. 
+
+- (Recommended) Signals and Systems, A. Oppenheim, A. Willsky, S. Nawab
+
+---
 
