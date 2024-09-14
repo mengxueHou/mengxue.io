@@ -6,7 +6,7 @@ authors:
 - Fumin Zhang
 author_notes: ""
 date: "2024-05-24T00:00:00Z"
-doi: "https://doi.org/10.1007/s10514-024-10165-5"
+doi: "10.1007/s10514-024-10165-5"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,7 +19,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Autonomous Robots* "
-publication_short: "*Autonomous Robots*"
+publication_short: "*Autonomous Robots* "
 
 abstract: Localization measurements for an Autonomous Underwater Vehicle (AUV) are often difficult to obtain. In many cases, localization measurements are only available sporadically after the AUV comes to the sea surface. Since the motion of AUVs is often affected by unknown underwater flow fields, the sporadic localization measurements carry information of the underwater flow field. Motion tomography (MT) algorithms have been developed to compute an underwater flow map based on the sporadic localization measurements.  This paper extends MT by introducing Laplacian regularization in to the problem formulation and the MT algorithm.   Laplacian regularization enforces smoothness in the spatial distribution of the underwater flow field. The resulted Laplacian regularized motion tomography (RMT) algorithm converges to achieve a finite error bounded. The performance of the RMT and other variants of MT are compared through the method of data resolution analysis. The improved performance of RMT is confirmed by experimental data collected from underwater glider ocean sensing experiments. 
 
