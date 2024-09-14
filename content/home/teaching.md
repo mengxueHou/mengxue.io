@@ -53,10 +53,13 @@ subtitle = ""
 
 **Teaching at University at Notre Dame**
 
+[EE 67074-AI Planning: from Graph Search to Reinforcement Learning](/courses/2023fall), Fall 2024
+
+[EE 20221-Signal and Information Systems](/courses/2024spring), Spring 2024
+
 [EE 67074-AI Planning: from Graph Search to Reinforcement Learning](/courses/2023fall), Fall 2023
 
 
-[EE 20221-Signal and Information Systems](/courses/2024spring), Spring 2024
 
 ---
 
