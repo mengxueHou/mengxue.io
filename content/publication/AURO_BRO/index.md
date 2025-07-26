@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Autonomous Robots* "
-publication_short: "*Autonomous Robots (under review)*"
+publication_short: "*Autonomous Robots*"
 
 abstract: The process-aware source seeking (PASS) problem in flow fields aims to find an informative trajectory to reach an unknown source location while taking the energy consumption in the flow fields into consideration. Taking advantage of the dynamic flow field partition technique, this paper formulates this problem as a task and motion planning (TAMP) problem and proposes a bi-level hierarchical planning framework to decouple the planning of inter-region transition and inner-region trajectory by introducing inter-region junctions. An integrated strategy is developed to enable efficient upper-level planning by investigating the optimal solution of the lower-level planner. In order to leverage the information acquisition and computational burden, a dynamic event-triggered mechanism is introduced to enable asynchronized estimation, region partitioning and re-plans. The proposed algorithm provides guaranteed convergence of the trajectory, and achieves automatic trade-offs of both exploration-exploitation and accuracy-efficiency. Simulation results validate the merits of the proposed algorithm, which demonstrates a significant reduction in computational burden without compromising planning optimality.
 

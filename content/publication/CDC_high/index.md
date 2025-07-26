@@ -12,7 +12,7 @@ authors:
 # Author notes (optional)
 
 date: '2023-01-01T00:00:00Z'
-doi: ''
+doi: '10.1109/CDC49753.2023.10384042'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-01-01T00:00:00Z'
@@ -25,7 +25,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2023 Conference on Decision and Control*
-publication_short: In *CDC (accepted)*
+publication_short: In *CDC*
 
 abstract: We present a novel computational framework for density control in high-dimensional state spaces. The considered dynamical system consists of a large number of indistinguishable agents whose behaviors can be collectively modeled as a time-evolving probability distribution. The goal is to steer the agents from an initial distribution to reach (or approximate) a given target distribution within a fixed time horizon at minimum cost. To tackle this problem, we propose to model the drift as a nonlinear reduced-order model, such as a deep network, and enforce the matching to the target distribution at terminal time either strictly or approximately using the Wasserstein metric. The resulting saddle-point problem can be solved by an effective numerical algorithm that leverages the excellent representation power of deep networks and fast automatic differentiation for this challenging high-dimensional control problem. A variety of numerical experiments were conducted to demonstrate the performance of our method.
 
