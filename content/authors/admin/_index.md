@@ -79,5 +79,4 @@ I received B.S. degree in Electrical Engineering from [Shanghai Jiao Tong Univer
  
  **P.S. Pronounciation of my first name is "mung-shway". You can also call me Meng.**
 
- **Prospective Students & Postdoc:** I am actively looking for talented graduate/undergrad students & postdoc fellows interested in **robotics, control & learning**. Please visit our [lab](https://sites.nd.edu/roarlab/) for more information!
 
