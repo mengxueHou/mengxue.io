@@ -7,7 +7,7 @@ authors:
 - Haomin Zhou
 author_notes: ""
 date: "2022-09-01T00:00:00Z"
-doi: 10.1007/s10514-022-10058-5
+doi: "10.1007/s10514-022-10058-5"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
